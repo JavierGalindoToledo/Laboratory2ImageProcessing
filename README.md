@@ -1,4 +1,4 @@
-# Laboratory1py
+# 381908-4 Хавьер Эдуардо Галиндо Толедо 
 ## No filters
 ![output1](https://user-images.githubusercontent.com/65180398/139313802-38ff5952-4784-493b-ab9e-fb510c7d29e8.png)
 ## Bilateral filter
